@@ -6,9 +6,9 @@
 [GitHub Release assets](https://github.com/yeahhe365/VoiceHotkey-releases/releases).
 It is a **distribution** repository, not an application source tree.
 
-- Product site: https://voicehotkey.pages.dev/
-- User handbook: https://voicehotkey.pages.dev/docs/
-- Support: https://voicehotkey.pages.dev/docs/support/contact/
+- Product site: https://voxhat.pages.dev/
+- User handbook: https://voxhat.pages.dev/docs/
+- Support: https://voxhat.pages.dev/docs/support/contact/
 
 ## License history
 
@@ -56,7 +56,7 @@ Local Only Mode restricts public-network ASR / LLM endpoints and pauses automati
 
 ## License service
 
-First Pro activation and key changes require an online check. Successful verification returns a server-signed, device-bound receipt allowing up to 30 days of offline Pro access. License requests send the license key, device identifier and, for activation, Mac name, platform, and app version to the VoxHat license service. They do not send ASR / LLM keys, audio, or transcripts. See the [privacy policy](https://voicehotkey.pages.dev/docs/privacy/policy/) and [license guide](https://voicehotkey.pages.dev/docs/support/license/).
+First Pro activation and key changes require an online check. Successful verification returns a server-signed, device-bound receipt allowing up to 30 days of offline Pro access. License requests send the license key, device identifier and, for activation, Mac name, platform, and app version to the VoxHat license service. They do not send ASR / LLM keys, audio, or transcripts. See the [privacy policy](https://voxhat.pages.dev/docs/privacy/policy/) and [license guide](https://voxhat.pages.dev/docs/support/license/).
 
 ## Brand & trademarks
 
@@ -74,4 +74,4 @@ The app may require:
 - **Speech Recognition** (optional) — when using macOS Apple system speech recognition
 - **Automation / Apple Events** (optional) — limited control of other apps
 
-See [Privacy Policy](https://voicehotkey.pages.dev/docs/privacy/policy/) and [Local-only Mode](https://voicehotkey.pages.dev/docs/privacy/local-only/).
+See [Privacy Policy](https://voxhat.pages.dev/docs/privacy/policy/) and [Local-only Mode](https://voxhat.pages.dev/docs/privacy/local-only/).
