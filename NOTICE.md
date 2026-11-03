@@ -2,7 +2,7 @@
 
 ## What this repository is
 
-**VoxHat-releases** publishes **official macOS installers** (DMG) for **VoxHat** (formerly VoiceHotkey) as
+**VoxHat-releases** publishes **official macOS installers** (DMG) for **VoxHat** as
 [GitHub Release assets](https://github.com/yeahhe365/VoxHat-releases/releases).
 It is a **distribution** repository, not an application source tree.
 
@@ -60,7 +60,7 @@ First Pro activation and key changes require an online check. Successful verific
 
 ## Brand & trademarks
 
-VoxHat, VoiceHotkey, and related marks are used to identify the official product and
+VoxHat and related marks are used to identify the official product and
 installers. Do not imply endorsement or “official” status when redistributing
 without permission. Provider logos are used for identification in settings;
 trademarks belong to their respective owners.

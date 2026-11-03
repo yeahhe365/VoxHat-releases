@@ -22,7 +22,7 @@
 > **Apple Silicon（arm64）Mac、macOS 14 以降**に対応。現在 Intel 用インストーラーはありません。[最新版をダウンロード](https://github.com/yeahhe365/VoxHat-releases/releases/latest)。
 > このインストーラーは **Apple の公証を受けておらず、Apple Developer ID で署名されていません**。初回起動が macOS にブロックされる場合があります。0.9.3 のインストーラーは公開を取り下げました。最新版をご利用ください。
 
-[VoxHat](https://voxhat.pages.dev/)（旧称 VoiceHotkey）の**公式インストーラー / ダウンロード**リポジトリです。
+[VoxHat](https://voxhat.pages.dev/) の**公式インストーラー / ダウンロード**リポジトリです。
 
 > **インストーラーは [GitHub Releases](https://github.com/yeahhe365/VoxHat-releases/releases) のみで公開されます。**
 > 本リポジトリの git 履歴に `.dmg` / `.app` などのバイナリはコミットしません。
@@ -55,8 +55,8 @@ macOS の**音声入力**：ホットキーを長押し、またはタップし�
 ### 推奨インストール手順
 
 1. Apple Silicon Mac と macOS 14 以降であることを確認し、[最新 Release](https://github.com/yeahhe365/VoxHat-releases/releases/latest) を開きます。
-2. `VoiceHotkey-0.9.4.dmg` をダウンロードします（0.9.4 インストーラーファイル名は下位互換性のため維持）。Source code アーカイブはインストーラーではありません。
-3. **VoxHat.app**（0.9.4 リリース内では **VoiceHotkey.app**）を **アプリケーション**（`/Applications` または `~/Applications`）にドラッグし、インストール先の固定パスから起動します。
+2. 最新の `.dmg` インストーラーをダウンロードします。Source code アーカイブはインストーラーではありません。
+3. **VoxHat.app** を **アプリケーション**（`/Applications` または `~/Applications`）にドラッグし、インストール先の固定パスから起動します。
 4. macOS が起動をブロックした場合は公式配布元を確認し、[Apple の案内](https://support.apple.com/ja-jp/102445)に従います。破損の警告ならチェックサムを確認して再ダウンロードし、解決しなければサポートへ連絡してください。
 5. 初回設定で **アクセシビリティ**、**マイク**、既定の Apple エンジン用の **音声認識** を許可します。
 6. 初回設定の練習欄をクリックし、既定の **Ctrl + Option + Space** で一文を話して、テキストが挿入されることを確認します。

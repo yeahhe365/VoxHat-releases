@@ -22,7 +22,7 @@
 > For **Apple Silicon (arm64) Macs running macOS 14 or later**. No Intel installer is currently available. [Download the latest release](https://github.com/yeahhe365/VoxHat-releases/releases/latest).
 > This installer is **not notarized or signed with Apple Developer ID**. macOS may block its first launch. The 0.9.3 installer has been withdrawn; use the latest release.
 
-Official **download / installer** repository for [VoxHat](https://voxhat.pages.dev/) (formerly VoiceHotkey).
+Official **download / installer** repository for [VoxHat](https://voxhat.pages.dev/).
 
 > **Installers are published only via [GitHub Releases](https://github.com/yeahhe365/VoxHat-releases/releases).**
 > This repo does **not** commit `.dmg` / `.app` binaries into git history.
@@ -55,8 +55,8 @@ macOS **voice typing**: hold or tap a hotkey, speak, and insert the recognized t
 ### Recommended install
 
 1. Confirm that your Mac uses Apple Silicon and runs macOS 14 or later, then open [the latest Release](https://github.com/yeahhe365/VoxHat-releases/releases/latest).
-2. Download `VoiceHotkey-0.9.4.dmg` (installer filename preserved for backward compatibility); Source code archives are not installers.
-3. Drag **VoxHat.app** (named VoiceHotkey.app in the 0.9.4 release) into **Applications** (`/Applications` or `~/Applications`), then launch from that fixed installed path.
+2. Download the latest `.dmg` installer; Source code archives are not installers.
+3. Drag **VoxHat.app** into **Applications** (`/Applications` or `~/Applications`), then launch from that fixed installed path.
 4. If macOS blocks opening, verify the official source and follow [Apple’s guidance](https://support.apple.com/en-us/102445). If it reports a damaged file, check the checksum and download again; contact support if the issue persists.
 5. In onboarding, grant **Accessibility**, **Microphone**, and **Speech Recognition** for the default Apple engine.
 6. Click the onboarding practice field, use the default voice typing hotkey **Ctrl + Option + Space**, say a sentence, and confirm that the text appears.

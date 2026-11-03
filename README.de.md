@@ -22,7 +22,7 @@
 > Für **Apple-Silicon-Macs (arm64) mit macOS 14 oder neuer**. Derzeit gibt es keinen Intel-Installer. [Neueste Version herunterladen](https://github.com/yeahhe365/VoxHat-releases/releases/latest).
 > Dieser Installer ist **nicht von Apple notarisiert und nicht mit Apple Developer ID signiert**. macOS kann den ersten Start blockieren. Der Installer für 0.9.3 wurde zurückgezogen; bitte die neueste Version verwenden.
 
-Offizielles **Download-/Installer-Repository** für [VoxHat](https://voxhat.pages.dev/) (ehemals VoiceHotkey).
+Offizielles **Download-/Installer-Repository** für [VoxHat](https://voxhat.pages.dev/).
 
 > **Installer werden nur über [GitHub Releases](https://github.com/yeahhe365/VoxHat-releases/releases) veröffentlicht.**
 > `.dmg` / `.app` werden **nicht** in die Git-Historie committed.
@@ -55,8 +55,8 @@ macOS-**Spracheingabe**: Hotkey halten oder antippen, sprechen und den erkannten
 ### Empfohlene Installation
 
 1. Apple Silicon und macOS 14 oder neuer prüfen, dann die [neueste Release](https://github.com/yeahhe365/VoxHat-releases/releases/latest) öffnen.
-2. `VoiceHotkey-0.9.4.dmg` herunterladen (Installer-Dateiname aus Gründen der Abwärtskompatibilität beibehalten). Source-code-Archive sind keine Installer.
-3. **VoxHat.app** (in Version 0.9.4 noch als **VoiceHotkey.app** bezeichnet) in **Programme** (`/Applications` oder `~/Applications`) ziehen und von diesem festen Installationspfad starten.
+2. Neuesten `.dmg`-Installer herunterladen. Source-code-Archive sind keine Installer.
+3. **VoxHat.app** in **Programme** (`/Applications` oder `~/Applications`) ziehen und von diesem festen Installationspfad starten.
 4. Bei einer macOS-Sperre die offizielle Quelle prüfen und [Apples Anleitung](https://support.apple.com/de-de/102445) folgen. Bei einer Beschädigungsmeldung Prüfsumme prüfen und erneut herunterladen; bei anhaltenden Problemen den Support kontaktieren.
 5. Im Einrichtungsassistenten **Bedienungshilfen**, **Mikrofon** und **Spracherkennung** für die voreingestellte Apple-Engine erlauben.
 6. Das Übungsfeld anklicken, mit dem Standard-Hotkey **Ctrl + Option + Space** einen Satz sprechen und prüfen, ob der Text eingefügt wird.
