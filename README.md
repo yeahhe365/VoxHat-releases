@@ -33,9 +33,9 @@ macOS **语音输入**：按住（或短按）热键说话，识别完成后将�
 
 ## 产品演示 / Product demo
 
-[![VoxHat 产品演示（48 秒）](https://voxhat.pages.dev/assets/video/voicehotkey-zh-CN.jpg?v=20261014-aesthetic)](https://voxhat.pages.dev/assets/video/voicehotkey-zh-CN.mp4?v=20261014-aesthetic)
+[![VoxHat 产品演示（48 秒）](https://voxhat.pages.dev/assets/video/voxhat-zh-CN.jpg?v=20261014-aesthetic)](https://voxhat.pages.dev/assets/video/voxhat-zh-CN.mp4?v=20261014-aesthetic)
 
-[中文宣传片（48 秒）](https://voxhat.pages.dev/assets/video/voicehotkey-zh-CN.mp4?v=20261014-aesthetic) · [English product film (48 sec)](https://voxhat.pages.dev/assets/video/voicehotkey-en.mp4?v=20261014-aesthetic)
+[中文宣传片（48 秒）](https://voxhat.pages.dev/assets/video/voxhat-zh-CN.mp4?v=20261014-aesthetic) · [English product film (48 sec)](https://voxhat.pages.dev/assets/video/voxhat-en.mp4?v=20261014-aesthetic)
 
 
 - **产品官网**：[voxhat.pages.dev](https://voxhat.pages.dev/)
