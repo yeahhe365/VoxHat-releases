@@ -2,8 +2,8 @@
 
 ## What this repository is
 
-**VoiceHotkey-releases** publishes **official macOS installers** (DMG) for **VoxHat** (formerly VoiceHotkey) as
-[GitHub Release assets](https://github.com/yeahhe365/VoiceHotkey-releases/releases).
+**VoxHat-releases** publishes **official macOS installers** (DMG) for **VoxHat** (formerly VoiceHotkey) as
+[GitHub Release assets](https://github.com/yeahhe365/VoxHat-releases/releases).
 It is a **distribution** repository, not an application source tree.
 
 - Product site: https://voxhat.pages.dev/

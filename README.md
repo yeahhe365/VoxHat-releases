@@ -7,24 +7,24 @@
 <p align="center"><strong>按下快捷键，说话即可输入</strong></p>
 
 <p align="center">
-  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>下载最新版</strong></a> ·
+  <a href="https://github.com/yeahhe365/VoxHat-releases/releases/latest"><strong>下载最新版</strong></a> ·
   <a href="https://voxhat.pages.dev/docs/getting-started/install/">安装指南</a>
 </p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voxhat.pages.dev/)
-[![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
-[![Download](https://img.shields.io/badge/download-Releases-blue.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
+[![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoxHat-releases/releases/latest)
+[![Download](https://img.shields.io/badge/download-Releases-blue.svg)](https://github.com/yeahhe365/VoxHat-releases/releases/latest)
 [![Docs](https://img.shields.io/badge/docs-手册-informational.svg)](https://voxhat.pages.dev/docs/)
 
 **语言：** 简体中文 · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · [한국어](README.ko.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
 > **当前公开版本：0.9.4**
-> 适用于 **Apple Silicon（arm64）Mac，macOS 14 或更高版本**；当前未提供 Intel 安装包。[下载最新版本](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)。
+> 适用于 **Apple Silicon（arm64）Mac，macOS 14 或更高版本**；当前未提供 Intel 安装包。[下载最新版本](https://github.com/yeahhe365/VoxHat-releases/releases/latest)。
 > 此安装包**尚未经过 Apple 公证，也未使用 Apple Developer ID 签名**。首次打开可能被 macOS 拦截。0.9.3 安装包已撤下，请使用最新版本。
 
 [VoxHat](https://voxhat.pages.dev/)（原名 VoiceHotkey）的**官方安装包 / 下载**仓库。
 
-> **安装包只通过 [GitHub Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases) 发布。**
+> **安装包只通过 [GitHub Releases](https://github.com/yeahhe365/VoxHat-releases/releases) 发布。**
 > 本仓库不提交 `.dmg` / `.app` 等二进制文件，避免 git 历史膨胀。
 
 ## 产品简介
@@ -52,15 +52,15 @@ macOS **语音输入**：按住（或短按）热键说话，识别完成后将�
 
 | | |
 |--|--|
-| **最新版本** | [Releases · Latest](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest) |
-| **全部版本** | [Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases) |
+| **最新版本** | [Releases · Latest](https://github.com/yeahhe365/VoxHat-releases/releases/latest) |
+| **全部版本** | [Releases](https://github.com/yeahhe365/VoxHat-releases/releases) |
 | **产品官网** | [voxhat.pages.dev](https://voxhat.pages.dev/) |
 | **用户手册** | [在线手册](https://voxhat.pages.dev/docs/) |
 | **问题反馈** | [联系与反馈](https://voxhat.pages.dev/docs/support/contact/) |
 
 ### 推荐安装步骤
 
-1. 确认你的 Mac 使用 Apple Silicon，且运行 macOS 14 或更高版本，再打开 [最新 Release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)。
+1. 确认你的 Mac 使用 Apple Silicon，且运行 macOS 14 或更高版本，再打开 [最新 Release](https://github.com/yeahhe365/VoxHat-releases/releases/latest)。
 2. 下载 `VoiceHotkey-0.9.4.dmg`（0.9.4 安装包文件名保持向后兼容）；Source code 压缩包不是安装包。
 3. 将 **VoxHat.app**（0.9.4 安装包内为 **VoiceHotkey.app**）拖入 **应用程序**（`/Applications` 或 `~/Applications`），从安装后的固定路径启动。
 4. 若 macOS 阻止打开，核对官方来源后按 [Apple 官方说明](https://support.apple.com/zh-cn/102445)处理；若提示文件损坏，先核对校验和、重新下载，仍有问题请联系支持。
@@ -83,5 +83,5 @@ VoxHat 为闭源商业软件，本仓库不公开应用源码。下载安装包�
 ## 支持
 
 - 使用问题与缺陷 → [联系与反馈](https://voxhat.pages.dev/docs/support/contact/)
-- 下载链接损坏、资源缺失 → 可在本仓 [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions) 反馈
+- 下载链接损坏、资源缺失 → 可在本仓 [Discussions](https://github.com/yeahhe365/VoxHat-releases/discussions) 反馈
 - 本仓仅用于**分发**；产品功能需求请走手册中的联系渠道，勿当作源码 Issues

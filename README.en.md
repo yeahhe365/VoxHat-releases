@@ -7,24 +7,24 @@
 <p align="center"><strong>Speak to type on macOS</strong></p>
 
 <p align="center">
-  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>Download latest</strong></a> ·
+  <a href="https://github.com/yeahhe365/VoxHat-releases/releases/latest"><strong>Download latest</strong></a> ·
   <a href="https://voxhat.pages.dev/docs/en/getting-started/install/">Install guide</a>
 </p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voxhat.pages.dev/)
-[![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
-[![Download](https://img.shields.io/badge/download-Releases-blue.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
+[![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoxHat-releases/releases/latest)
+[![Download](https://img.shields.io/badge/download-Releases-blue.svg)](https://github.com/yeahhe365/VoxHat-releases/releases/latest)
 [![Docs](https://img.shields.io/badge/docs-handbook-informational.svg)](https://voxhat.pages.dev/docs/en/)
 
 **Language:** [简体中文](README.md) · [繁體中文](README.zh-Hant.md) · English · [日本語](README.ja.md) · [한국어](README.ko.md) · [Deutsch](README.de.md) · [Español](README.es.md)
 
 > **Current public release: 0.9.4**
-> For **Apple Silicon (arm64) Macs running macOS 14 or later**. No Intel installer is currently available. [Download the latest release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest).
+> For **Apple Silicon (arm64) Macs running macOS 14 or later**. No Intel installer is currently available. [Download the latest release](https://github.com/yeahhe365/VoxHat-releases/releases/latest).
 > This installer is **not notarized or signed with Apple Developer ID**. macOS may block its first launch. The 0.9.3 installer has been withdrawn; use the latest release.
 
 Official **download / installer** repository for [VoxHat](https://voxhat.pages.dev/) (formerly VoiceHotkey).
 
-> **Installers are published only via [GitHub Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases).**
+> **Installers are published only via [GitHub Releases](https://github.com/yeahhe365/VoxHat-releases/releases).**
 > This repo does **not** commit `.dmg` / `.app` binaries into git history.
 
 ## About the product
@@ -46,15 +46,15 @@ macOS **voice typing**: hold or tap a hotkey, speak, and insert the recognized t
 
 | | |
 |--|--|
-| **Latest release** | [Releases · Latest](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest) |
-| **All versions** | [Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases) |
+| **Latest release** | [Releases · Latest](https://github.com/yeahhe365/VoxHat-releases/releases/latest) |
+| **All versions** | [Releases](https://github.com/yeahhe365/VoxHat-releases/releases) |
 | **Product site** | [voxhat.pages.dev](https://voxhat.pages.dev/) |
 | **User handbook** | [Docs](https://voxhat.pages.dev/docs/en/) |
 | **Support** | [Contact](https://voxhat.pages.dev/docs/en/support/contact/) |
 
 ### Recommended install
 
-1. Confirm that your Mac uses Apple Silicon and runs macOS 14 or later, then open [the latest Release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest).
+1. Confirm that your Mac uses Apple Silicon and runs macOS 14 or later, then open [the latest Release](https://github.com/yeahhe365/VoxHat-releases/releases/latest).
 2. Download `VoiceHotkey-0.9.4.dmg` (installer filename preserved for backward compatibility); Source code archives are not installers.
 3. Drag **VoxHat.app** (named VoiceHotkey.app in the 0.9.4 release) into **Applications** (`/Applications` or `~/Applications`), then launch from that fixed installed path.
 4. If macOS blocks opening, verify the official source and follow [Apple’s guidance](https://support.apple.com/en-us/102445). If it reports a damaged file, check the checksum and download again; contact support if the issue persists.
@@ -77,5 +77,5 @@ See [LICENSE](LICENSE) · [NOTICE](NOTICE.md), plus [Plans & Commercial](https:/
 ## Support
 
 - Bugs & usage questions → [Contact](https://voxhat.pages.dev/docs/en/support/contact/)
-- Broken download links / missing assets → [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions)
+- Broken download links / missing assets → [Discussions](https://github.com/yeahhe365/VoxHat-releases/discussions)
 - This repo is for **distribution only**; please use handbook contact channels for product feature requests

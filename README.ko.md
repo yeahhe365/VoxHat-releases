@@ -7,24 +7,24 @@
 <p align="center"><strong>단축키를 누르고 말하면 macOS에 입력됩니다</strong></p>
 
 <p align="center">
-  <a href="https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest"><strong>최신 버전 다운로드</strong></a> ·
+  <a href="https://github.com/yeahhe365/VoxHat-releases/releases/latest"><strong>최신 버전 다운로드</strong></a> ·
   <a href="https://voxhat.pages.dev/docs/ko/getting-started/install/">설치 가이드</a>
 </p>
 
 [![Platform](https://img.shields.io/badge/platform-macOS%2014%2B-lightgrey.svg)](https://voxhat.pages.dev/)
-[![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
-[![Download](https://img.shields.io/badge/download-Releases-blue.svg)](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)
+[![Version](https://img.shields.io/badge/version-0.9.4-green.svg)](https://github.com/yeahhe365/VoxHat-releases/releases/latest)
+[![Download](https://img.shields.io/badge/download-Releases-blue.svg)](https://github.com/yeahhe365/VoxHat-releases/releases/latest)
 [![Docs](https://img.shields.io/badge/docs-handbook-informational.svg)](https://voxhat.pages.dev/docs/ko/)
 
 **언어:** [简体中文](README.md) · [繁體中文](README.zh-Hant.md) · [English](README.en.md) · [日本語](README.ja.md) · 한국어 · [Deutsch](README.de.md) · [Español](README.es.md)
 
 > **현재 공개 버전: 0.9.4**
-> **Apple Silicon(arm64) Mac, macOS 14 이상**에서 사용할 수 있습니다. 현재 Intel 설치 파일은 제공하지 않습니다. [최신 버전 다운로드](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest).
+> **Apple Silicon(arm64) Mac, macOS 14 이상**에서 사용할 수 있습니다. 현재 Intel 설치 파일은 제공하지 않습니다. [최신 버전 다운로드](https://github.com/yeahhe365/VoxHat-releases/releases/latest).
 > 이 설치 파일은 **Apple 공증을 받지 않았으며 Apple Developer ID로 서명되지 않았습니다**. macOS가 첫 실행을 차단할 수 있습니다. 0.9.3 설치 파일은 배포가 철회되었으므로 최신 버전을 사용하세요.
 
 [VoxHat](https://voxhat.pages.dev/)(이전 명칭 VoiceHotkey) **공식 설치 파일 / 다운로드** 저장소입니다.
 
-> **설치 파일은 [GitHub Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases) 로만 배포합니다.**
+> **설치 파일은 [GitHub Releases](https://github.com/yeahhe365/VoxHat-releases/releases) 로만 배포합니다.**
 > `.dmg` / `.app` 바이너리는 git 에 커밋하지 않습니다.
 
 ## 제품 소개
@@ -46,15 +46,15 @@ macOS **음성 입력**: 단축키를 길게 누르거나 탭해 말하면 인�
 
 | | |
 |--|--|
-| **최신 버전** | [Releases · Latest](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest) |
-| **전체 버전** | [Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases) |
+| **최신 버전** | [Releases · Latest](https://github.com/yeahhe365/VoxHat-releases/releases/latest) |
+| **전체 버전** | [Releases](https://github.com/yeahhe365/VoxHat-releases/releases) |
 | **제품 사이트** | [voxhat.pages.dev](https://voxhat.pages.dev/) |
 | **설명서** | [Docs](https://voxhat.pages.dev/docs/ko/) |
 | **문의** | [연락처](https://voxhat.pages.dev/docs/ko/support/contact/) |
 
 ### 권장 설치 단계
 
-1. Apple Silicon Mac과 macOS 14 이상인지 확인한 후 [최신 Release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)를 엽니다.
+1. Apple Silicon Mac과 macOS 14 이상인지 확인한 후 [최신 Release](https://github.com/yeahhe365/VoxHat-releases/releases/latest)를 엽니다.
 2. `VoiceHotkey-0.9.4.dmg`를 다운로드합니다(0.9.4 설치 파일명은 하위 호환성을 위해 유지). Source code 압축 파일은 설치 파일이 아닙니다.
 3. **VoxHat.app**(0.9.4 릴리스에서는 **VoiceHotkey.app**)을 **응용 프로그램**(`/Applications` 또는 `~/Applications`) 폴더로 드래그한 뒤, 고정 설치 경로에서 실행합니다.
 4. macOS가 실행을 차단하면 공식 출처를 확인하고 [Apple 안내](https://support.apple.com/ko-kr/102445)를 따르세요. 파일 손상 경고라면 체크섬 확인 후 다시 다운로드하고, 문제가 계속되면 지원팀에 문의하세요.
@@ -77,5 +77,5 @@ VoxHat은 독점 상용 소프트웨어이며, 이 저장소에서 앱 소스 �
 ## 지원
 
 - 사용 질문 및 버그 리포트 → [문의](https://voxhat.pages.dev/docs/ko/support/contact/)
-- 다운로드 링크 깨짐 / 자산 누락 → 본 저장소 [Discussions](https://github.com/yeahhe365/VoiceHotkey-releases/discussions)
+- 다운로드 링크 깨짐 / 자산 누락 → 본 저장소 [Discussions](https://github.com/yeahhe365/VoxHat-releases/discussions)
 - 본 저장소는 **배포 전용**입니다. 제품 기능 제안 등은 공식 설명서의 문의 창구를 이용해 주세요
