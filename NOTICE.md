@@ -2,7 +2,7 @@
 
 ## What this repository is
 
-**VoiceHotkey-releases** publishes **official macOS installers** (DMG) as
+**VoiceHotkey-releases** publishes **official macOS installers** (DMG) for **VoxHat** (formerly VoiceHotkey) as
 [GitHub Release assets](https://github.com/yeahhe365/VoiceHotkey-releases/releases).
 It is a **distribution** repository, not an application source tree.
 
@@ -12,12 +12,12 @@ It is a **distribution** repository, not an application source tree.
 
 ## License history
 
-- **Current product** (VoiceHotkey 0.9+): Proprietary commercial software — see [LICENSE](LICENSE).
+- **Current product** (VoxHat 0.9+): Proprietary commercial software — see [LICENSE](LICENSE).
 - **Historical snapshots** published under MIT remain available under MIT for those specific commits only. New contributions, official installers, and commercial builds are not MIT.
 
 ## License
 
-VoiceHotkey is **proprietary commercial software**. See [LICENSE](LICENSE).
+VoxHat is **proprietary commercial software**. See [LICENSE](LICENSE).
 
 Downloading or installing a binary does **not** grant rights beyond the product
 license, trial/Free/Pro entitlements, and the privacy / terms summaries in the
@@ -25,7 +25,7 @@ user handbook.
 
 ## Third-party components
 
-VoiceHotkey embeds or dynamically links the following open-source components:
+VoxHat embeds or dynamically links the following open-source components:
 
 | Component | License | Source | Usage |
 |-----------|---------|--------|-------|
@@ -56,11 +56,11 @@ Local Only Mode restricts public-network ASR / LLM endpoints and pauses automati
 
 ## License service
 
-First Pro activation and key changes require an online check. Successful verification returns a server-signed, device-bound receipt allowing up to 30 days of offline Pro access. License requests send the license key, device identifier and, for activation, Mac name, platform, and app version to the VoiceHotkey license service. They do not send ASR / LLM keys, audio, or transcripts. See the [privacy policy](https://voicehotkey.pages.dev/docs/privacy/policy/) and [license guide](https://voicehotkey.pages.dev/docs/support/license/).
+First Pro activation and key changes require an online check. Successful verification returns a server-signed, device-bound receipt allowing up to 30 days of offline Pro access. License requests send the license key, device identifier and, for activation, Mac name, platform, and app version to the VoxHat license service. They do not send ASR / LLM keys, audio, or transcripts. See the [privacy policy](https://voicehotkey.pages.dev/docs/privacy/policy/) and [license guide](https://voicehotkey.pages.dev/docs/support/license/).
 
 ## Brand & trademarks
 
-VoiceHotkey and related marks are used to identify the official product and
+VoxHat, VoiceHotkey, and related marks are used to identify the official product and
 installers. Do not imply endorsement or “official” status when redistributing
 without permission. Provider logos are used for identification in settings;
 trademarks belong to their respective owners.

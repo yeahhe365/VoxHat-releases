@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/app-icon.png" alt="Icono de la aplicación VoiceHotkey" width="88" />
+  <img src="assets/app-icon.png" alt="Icono de la aplicación VoxHat" width="88" />
 </p>
 
-<h1 align="center">VoiceHotkey</h1>
+<h1 align="center">VoxHat</h1>
 
 <p align="center"><strong>Habla con un atajo y escribe en macOS</strong></p>
 
@@ -22,7 +22,7 @@
 > Para **Mac con Apple Silicon (arm64) y macOS 14 o posterior**. Actualmente no hay instalador para Intel. [Descargar la última versión](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest).
 > Este instalador **no está notarizado por Apple ni firmado con Apple Developer ID**. macOS puede bloquear su primer inicio. El instalador de 0.9.3 se ha retirado; utiliza la última versión.
 
-Repositorio **oficial de descarga / instaladores** de [VoiceHotkey](https://voicehotkey.pages.dev/).
+Repositorio **oficial de descarga / instaladores** de [VoxHat](https://voicehotkey.pages.dev/) (anteriormente VoiceHotkey).
 
 > **Los instaladores se publican solo en [GitHub Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases).**
 > Este repo **no** sube `.dmg` / `.app` al historial de git.
@@ -55,8 +55,8 @@ Repositorio **oficial de descarga / instaladores** de [VoiceHotkey](https://voic
 ### Instalación recomendada
 
 1. Confirma que tu Mac utiliza Apple Silicon y macOS 14 o posterior; abre [la última Release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest).
-2. Descarga `VoiceHotkey-0.9.4.dmg`. Los archivos Source code no son instaladores.
-3. Arrastra **VoiceHotkey.app** a **Aplicaciones** (`/Applications` o `~/Applications`) e inicia desde esa ruta fija.
+2. Descarga `VoiceHotkey-0.9.4.dmg` (el nombre del instalador de la 0.9.4 se mantiene por compatibilidad hacia atrás). Los archivos Source code no son instaladores.
+3. Arrastra **VoxHat.app** (nombrada **VoiceHotkey.app** en la versión 0.9.4) a **Aplicaciones** (`/Applications` o `~/Applications`) e iníciala desde esa ruta fija.
 4. Si macOS bloquea el inicio, verifica el origen oficial y sigue [la guía de Apple](https://support.apple.com/es-es/102445). Si indica que el archivo está dañado, verifica la suma y vuelve a descargarlo; contacta con soporte si persiste.
 5. En la configuración inicial, permite **Accesibilidad**, **Micrófono** y **Reconocimiento de voz** para el motor Apple predeterminado.
 6. Haz clic en el campo de práctica, usa el atajo predeterminado **Ctrl + Option + Space**, di una frase y confirma que el texto aparece.
@@ -71,7 +71,7 @@ Consulta el manual: [Actualizaciones](https://voicehotkey.pages.dev/docs/es/adva
 
 ## Licencia y términos
 
-VoiceHotkey es software comercial propietario; este repositorio no publica el código fuente de la aplicación. Descargar o instalar un binario no otorga derechos más allá de la licencia y los términos de uso del producto.
+VoxHat es software comercial propietario; este repositorio no publica el código fuente de la aplicación. Descargar o instalar un binario no otorga derechos más allá de la licencia y los términos de uso del producto.
 Consulta [LICENSE](LICENSE) · [NOTICE](NOTICE.md), además de [Planes](https://voicehotkey.pages.dev/docs/es/getting-started/plans/) y [Política de privacidad](https://voicehotkey.pages.dev/docs/es/privacy/policy/).
 
 ## Soporte

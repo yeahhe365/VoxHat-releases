@@ -1,14 +1,14 @@
-VoiceHotkey Proprietary Software License
+VoxHat Proprietary Software License
 Copyright (c) 2026 yeahhe365. All rights reserved.
 
 IMPORTANT: This is commercial software. Downloadable installers and the
-VoiceHotkey application are NOT open source under the MIT License for the
+VoxHat application (formerly VoiceHotkey) are NOT open source under the MIT License for the
 current product line.
 
 1. Grant of License
-   Subject to purchase of a valid VoiceHotkey license (or an active trial),
+   Subject to purchase of a valid VoxHat license (or an active trial),
    yeahhe365 grants you a non-exclusive, non-transferable license to install
-   and use the VoiceHotkey application on devices you own or control, solely
+   and use the VoxHat application on devices you own or control, solely
    for your personal or internal business purposes, in accordance with the
    plan entitlements associated with your license key.
 
@@ -18,19 +18,19 @@ current product line.
        keys to third parties without written permission;
    (b) remove or alter copyright, trademark, or proprietary notices;
    (c) use the Software to provide a competing hosted service that
-       substantially replicates VoiceHotkey without a commercial agreement;
+       substantially replicates VoxHat without a commercial agreement;
    (d) reverse engineer the Software solely for the purpose of circumventing
        license, trial, or entitlement checks.
 
 3. This Repository
    This repository (VoiceHotkey-releases) distributes official macOS installer
-   packages (for example DMG assets on GitHub Releases). Possession of an
+   packages for VoxHat (for example DMG assets on GitHub Releases). Possession of an
    installer does not grant a right to redistribute binaries, re-host
    installers for commercial gain, or operate a commercial fork without a
    separate written agreement.
 
 4. Third-Party Services
-   VoiceHotkey may call third-party speech recognition and large language
+   VoxHat may call third-party speech recognition and large language
    model APIs using credentials you provide (BYOK). Those services are
    governed by their own terms and privacy policies. You are responsible for
    API usage costs and compliance with those providers.

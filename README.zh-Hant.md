@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/app-icon.png" alt="VoiceHotkey 應用程式圖示" width="88" />
+  <img src="assets/app-icon.png" alt="VoxHat 應用程式圖示" width="88" />
 </p>
 
-<h1 align="center">VoiceHotkey</h1>
+<h1 align="center">VoxHat</h1>
 
 <p align="center"><strong>按下快捷鍵，說話即可輸入</strong></p>
 
@@ -22,7 +22,7 @@
 > 適用於 **Apple Silicon（arm64）Mac，macOS 14 或更新版本**；目前未提供 Intel 安裝包。[下載最新版本](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)。
 > 此安裝包**尚未經過 Apple 公證，也未使用 Apple Developer ID 簽名**。首次開啟可能遭 macOS 阻擋。0.9.3 安裝包已撤下，請使用最新版本。
 
-[VoiceHotkey](https://voicehotkey.pages.dev/) 的**官方安裝包 / 下載**倉庫。
+[VoxHat](https://voicehotkey.pages.dev/)（原名 VoiceHotkey）的**官方安裝包 / 下載**倉庫。
 
 > **安裝包只透過 [GitHub Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases) 發佈。**
 > 本倉庫不提交 `.dmg` / `.app` 等二進位檔，避免 git 歷史膨脹。
@@ -55,8 +55,8 @@ macOS **語音輸入**：按住（或短按）熱鍵說話，識別完成後將�
 ### 建議安裝步驟
 
 1. 確認你的 Mac 使用 Apple Silicon，且執行 macOS 14 或更新版本，再開啟 [最新 Release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest)。
-2. 下載 `VoiceHotkey-0.9.4.dmg`；Source code 壓縮檔不是安裝包。
-3. 將 **VoiceHotkey.app** 拖入 **應用程式**（`/Applications` 或 `~/Applications`），從安裝後的固定路徑啟動。
+2. 下載 `VoiceHotkey-0.9.4.dmg`（0.9.4 安裝包檔名保持向後相容）；Source code 壓縮檔不是安裝包。
+3. 將 **VoxHat.app**（0.9.4 安裝包內為 **VoiceHotkey.app**）拖入 **應用程式**（`/Applications` 或 `~/Applications`），從安裝後的固定路徑啟動。
 4. 若 macOS 阻擋開啟，核對官方來源後依 [Apple 官方說明](https://support.apple.com/zh-tw/102445)處理；若提示檔案損壞，先核對校驗和、重新下載，仍有問題請聯絡支援。
 5. 在引導中授予 **輔助使用**、**麥克風**，以及預設 Apple 引擎需要的 **語音辨識** 權限。
 6. 點選引導中的試用輸入框，用預設語音輸入熱鍵 **Ctrl + Option + Space** 說一句話，確認文字成功插入。
@@ -71,7 +71,7 @@ macOS **語音輸入**：按住（或短按）熱鍵說話，識別完成後將�
 
 ## 授權與條款
 
-VoiceHotkey 為閉源商業軟體，本倉庫不公開應用程式原始碼。下載安裝包並不授予超出產品授權 / 使用條款的權利。
+VoxHat 為閉源商業軟體，本倉庫不公開應用程式原始碼。下載安裝包並不授予超出產品授權 / 使用條款的權利。
 見本倉 [LICENSE](LICENSE) · [NOTICE](NOTICE.md)，以及手冊：[方案與商業](https://voicehotkey.pages.dev/docs/zh-tw/getting-started/plans/)、[隱私](https://voicehotkey.pages.dev/docs/zh-tw/privacy/policy/)。
 
 ## 支援

@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/app-icon.png" alt="VoiceHotkey app icon" width="88" />
+  <img src="assets/app-icon.png" alt="VoxHat app icon" width="88" />
 </p>
 
-<h1 align="center">VoiceHotkey</h1>
+<h1 align="center">VoxHat</h1>
 
 <p align="center"><strong>Speak to type on macOS</strong></p>
 
@@ -22,7 +22,7 @@
 > For **Apple Silicon (arm64) Macs running macOS 14 or later**. No Intel installer is currently available. [Download the latest release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest).
 > This installer is **not notarized or signed with Apple Developer ID**. macOS may block its first launch. The 0.9.3 installer has been withdrawn; use the latest release.
 
-Official **download / installer** repository for [VoiceHotkey](https://voicehotkey.pages.dev/).
+Official **download / installer** repository for [VoxHat](https://voicehotkey.pages.dev/) (formerly VoiceHotkey).
 
 > **Installers are published only via [GitHub Releases](https://github.com/yeahhe365/VoiceHotkey-releases/releases).**
 > This repo does **not** commit `.dmg` / `.app` binaries into git history.
@@ -55,8 +55,8 @@ macOS **voice typing**: hold or tap a hotkey, speak, and insert the recognized t
 ### Recommended install
 
 1. Confirm that your Mac uses Apple Silicon and runs macOS 14 or later, then open [the latest Release](https://github.com/yeahhe365/VoiceHotkey-releases/releases/latest).
-2. Download `VoiceHotkey-0.9.4.dmg`; Source code archives are not installers.
-3. Drag **VoiceHotkey.app** into **Applications** (`/Applications` or `~/Applications`), then launch from that fixed installed path.
+2. Download `VoiceHotkey-0.9.4.dmg` (installer filename preserved for backward compatibility); Source code archives are not installers.
+3. Drag **VoxHat.app** (named VoiceHotkey.app in the 0.9.4 release) into **Applications** (`/Applications` or `~/Applications`), then launch from that fixed installed path.
 4. If macOS blocks opening, verify the official source and follow [Apple’s guidance](https://support.apple.com/en-us/102445). If it reports a damaged file, check the checksum and download again; contact support if the issue persists.
 5. In onboarding, grant **Accessibility**, **Microphone**, and **Speech Recognition** for the default Apple engine.
 6. Click the onboarding practice field, use the default voice typing hotkey **Ctrl + Option + Space**, say a sentence, and confirm that the text appears.
@@ -71,7 +71,7 @@ See the handbook: [Updates](https://voicehotkey.pages.dev/docs/en/advanced/updat
 
 ## License & terms
 
-VoiceHotkey is proprietary commercial software; application source code is not published in this repository. Installing a binary does not grant rights beyond the product license / terms.
+VoxHat is proprietary commercial software; application source code is not published in this repository. Installing a binary does not grant rights beyond the product license / terms.
 See [LICENSE](LICENSE) · [NOTICE](NOTICE.md), plus [Plans & Commercial](https://voicehotkey.pages.dev/docs/en/getting-started/plans/) and [Privacy Policy](https://voicehotkey.pages.dev/docs/en/privacy/policy/).
 
 ## Support
